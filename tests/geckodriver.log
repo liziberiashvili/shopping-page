@@ -1,0 +1,909 @@
+1694594198911	geckodriver	INFO	Listening on 127.0.0.1:52655
+1694594198969	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileZ57Kb4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694594199262	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694594199349	Marionette	INFO	Listening on port 52666
+Read port: 52666
+WebDriver BiDi listening on ws://127.0.0.1:52656
+1694594199408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52656/devtools/browser/fecdcb5d-1dd0-4d45-8588-e7ecac124985
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demoqa.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5234 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694594214464	Marionette	INFO	Stopped listening on port 52666
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694595228720	geckodriver	INFO	Listening on 127.0.0.1:53000
+1694595229233	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilelQ6hPC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694595229527	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694595229726	Marionette	INFO	Listening on port 53008
+WebDriver BiDi listening on ws://127.0.0.1:53001
+Read port: 53008
+1694595229829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53001/devtools/browser/6e1fc99b-bbed-4f17-8c90-30750e50d773
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694595231969&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=wmr9lzu0pbtq&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://4bfe3a3c150cbed28f4e89cd949ca7ae.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 1375 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694595234388	Marionette	INFO	Stopped listening on port 53008
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694596057345	geckodriver	INFO	Listening on 127.0.0.1:55402
+1694596057862	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileE8wk07"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694596058190	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694596058312	Marionette	INFO	Listening on port 55414
+WebDriver BiDi listening on ws://127.0.0.1:55403
+Read port: 55414
+1694596058466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55403/devtools/browser/bbe5511c-6d05-4933-8173-12b1858985be
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 6193 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694596063065	Marionette	INFO	Stopped listening on port 55414
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30038
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694596169517	geckodriver	INFO	Listening on 127.0.0.1:55958
+1694596170031	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilevssfZx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694596170338	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694596170432	Marionette	INFO	Listening on port 55970
+WebDriver BiDi listening on ws://127.0.0.1:55959
+Read port: 55970
+1694596170489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55959/devtools/browser/4c2ae592-4a00-4f41-901e-8f10322d2957
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694596172707&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=utqkd0vco2zy&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://c3e4e4ef6b8e763856859aabb58a8bf9.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694596175081	Marionette	INFO	Stopped listening on port 55970
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2.js, line 36: Script terminated by timeout at:
+Ia/</</h.port1.onmessage@https://tpc.googlesyndication.com/sodar/sodar2.js:36:208
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694596652952	geckodriver	INFO	Listening on 127.0.0.1:57997
+1694596653467	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileLa0f50"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694596653756	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694596653957	Marionette	INFO	Listening on port 58009
+WebDriver BiDi listening on ws://127.0.0.1:57998
+Read port: 58009
+1694596654061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57998/devtools/browser/9be80516-6278-4cdd-aa53-8755a3babe3d
+JavaScript error: https://1c8cad799a0c41817066f6160ce3b25e.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694596657240&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=dlhiknrx9qau&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript error: https://dsp-media.eskimi.com/upload/rich-media-templates/pixel_pages_templates/300x250/code.js, line 53: TypeError: o.adArea is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3234 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694596659031	Marionette	INFO	Stopped listening on port 58009
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694596677745	geckodriver	INFO	Listening on 127.0.0.1:58224
+1694596678263	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilez6JafX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694596678542	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694596678736	Marionette	INFO	Listening on port 58236
+WebDriver BiDi listening on ws://127.0.0.1:58225
+Read port: 58236
+1694596678840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:58225/devtools/browser/56456b65-8280-48a5-94af-f8d414a50e15
+JavaScript error: https://3401ce13e83bcfada7dc3ad247004356.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694596681764&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=s9lpswsj6bvw&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dsp-media.eskimi.com/upload/rich-media-templates/pixel_pages_templates/728x90/code.js, line 53: TypeError: o.adArea is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 4651 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694596683505	Marionette	INFO	Stopped listening on port 58236
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js, line 10: Script terminated by timeout at:
+jE@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js:10:199081
+iG@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js:10:232160
+hG.prototype.sa@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js:10:232055
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694596705959	geckodriver	INFO	Listening on 127.0.0.1:58460
+1694596706477	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile2AKyUh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694596706755	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694596706950	Marionette	INFO	Listening on port 58472
+WebDriver BiDi listening on ws://127.0.0.1:58461
+Read port: 58472
+1694596707055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:58461/devtools/browser/b52a6f49-b334-4eba-b002-70ec0c8ef404
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5606 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694596711452	Marionette	INFO	Stopped listening on port 58472
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2.js, line 36: Script terminated by timeout at:
+Ia/</</h.port1.onmessage@https://tpc.googlesyndication.com/sodar/sodar2.js:36:208
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694596738763	geckodriver	INFO	Listening on 127.0.0.1:58690
+1694596739277	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileJY3JdW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694596739560	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694596739755	Marionette	INFO	Listening on port 58702
+WebDriver BiDi listening on ws://127.0.0.1:58691
+Read port: 58702
+1694596739860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:58691/devtools/browser/6ad0e4b3-f776-4ea9-8c51-464b04b93285
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript error: https://967c51a26cbff92231cfbe4e487b179a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694596743243&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=04jjxrd43333&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5254 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694596744759	Marionette	INFO	Stopped listening on port 58702
+JavaScript warning: https://dsp-media.eskimi.com/upload/js/3_11060364f83e56989de_1842515611.js?_=1693990486, line 1: Script terminated by timeout at:
+player</n<@https://dsp-media.eskimi.com/upload/js/3_11060364f83e56989de_1842515611.js?_=1693990486:1:4543
+
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js, line 10: Script terminated by timeout at:
+IF@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js:10:218070
+iG@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js:10:232150
+hG.prototype.sa@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js:10:232055
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694596769893	geckodriver	INFO	Listening on 127.0.0.1:58945
+1694596770420	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilem7H57l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694596770706	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694596770920	Marionette	INFO	Listening on port 58957
+WebDriver BiDi listening on ws://127.0.0.1:58946
+Read port: 58957
+1694596771023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:58946/devtools/browser/a0682ffb-ad09-45d7-a24d-995efed665ac
+JavaScript error: https://22beafa4b6352975640f2407958280a3.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694596773907&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=9vixxomng68g&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript error: https://dsp-media.eskimi.com/upload/rich-media-templates/pixel_pages_templates/300x250/code.js, line 53: TypeError: o.adArea is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3503 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694596775634	Marionette	INFO	Stopped listening on port 58957
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js?cb=31077711, line 10: Script terminated by timeout at:
+_.cG/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202309060101/pubads_impl.js?cb=31077711:10:222976
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694597043404	geckodriver	INFO	Listening on 127.0.0.1:60163
+1694597043916	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileYUX6Gz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694597044199	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694597044403	Marionette	INFO	Listening on port 60175
+WebDriver BiDi listening on ws://127.0.0.1:60164
+Read port: 60175
+1694597044507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60164/devtools/browser/f75fc73e-7826-424f-b6c6-450b3af600e4
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-MVRXK93D28&l=dataLayer&cx=c, line 454: Script terminated by timeout at:
+aa.ph@https://www.googletagmanager.com/gtag/js?id=G-MVRXK93D28&l=dataLayer&cx=c:454:89
+get@https://www.googletagmanager.com/gtag/js?id=G-MVRXK93D28&l=dataLayer&cx=c:452:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-MVRXK93D28&l=dataLayer&cx=c:452:87
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-MVRXK93D28&l=dataLayer&cx=c:452:412
+
+1694597051682	geckodriver	INFO	Listening on 127.0.0.1:60257
+1694597052194	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilesD9UOz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694597052481	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694597052572	Marionette	INFO	Listening on port 60269
+WebDriver BiDi listening on ws://127.0.0.1:60258
+Read port: 60269
+1694597052679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60258/devtools/browser/37ccaaa9-0d74-4e30-8c4c-d3364455a856
+JavaScript error: https://4004ade1f21b9713344934becb79c261.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694597056644&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=qs33tz1mppai&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 903 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694597059607	Marionette	INFO	Stopped listening on port 60269
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+JavaScript warning: https://dsp-media.eskimi.com/assets/js/ibv/video.min.js, line 18: Script terminated by timeout at:
+[82]</i/d.dispatcher@https://dsp-media.eskimi.com/assets/js/ibv/video.min.js:18:17080
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694597076228	geckodriver	INFO	Listening on 127.0.0.1:60488
+1694597076747	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile1Il8i1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694597077028	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694597077233	Marionette	INFO	Listening on port 60501
+WebDriver BiDi listening on ws://127.0.0.1:60489
+Read port: 60501
+1694597077337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60489/devtools/browser/6f809c38-5ef2-4406-9979-6eadd371ffac
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 6492 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694597081792	Marionette	INFO	Stopped listening on port 60501
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30038
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694597266402	geckodriver	INFO	Listening on 127.0.0.1:61342
+1694597266918	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofiledgdLB6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694597267215	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694597267413	Marionette	INFO	Listening on port 61354
+WebDriver BiDi listening on ws://127.0.0.1:61343
+Read port: 61354
+1694597267523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61343/devtools/browser/5a577aa2-b458-4889-beb3-9e615a51dd08
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5343 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694597272127	Marionette	INFO	Stopped listening on port 61354
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2.js, line 36: Script terminated by timeout at:
+Ia/</</h.port1.onmessage@https://tpc.googlesyndication.com/sodar/sodar2.js:36:208
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694597303328	geckodriver	INFO	Listening on 127.0.0.1:61583
+1694597303838	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile4TcYP2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694597304092	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694597304287	Marionette	INFO	Listening on port 61595
+WebDriver BiDi listening on ws://127.0.0.1:61584
+Read port: 61595
+1694597304393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61584/devtools/browser/b978c21f-7c57-48d7-88a8-2285d44f3e47
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694597309212	Marionette	INFO	Stopped listening on port 61595
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html, line 26: Script terminated by timeout at:
+ra/</<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:93
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2.js, line 36: Script terminated by timeout at:
+Ia/</</h.port1.onmessage@https://tpc.googlesyndication.com/sodar/sodar2.js:36:208
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694597393023	geckodriver	INFO	Listening on 127.0.0.1:62042
+1694597393541	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileUamEDP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694597393830	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694597394029	Marionette	INFO	Listening on port 62054
+WebDriver BiDi listening on ws://127.0.0.1:62043
+Read port: 62054
+1694597394133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62043/devtools/browser/f6ed40df-e8c2-4ff5-af0c-5356f114ae86
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 6844 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694597405817	Marionette	INFO	Stopped listening on port 62054
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694597711069	geckodriver	INFO	Listening on 127.0.0.1:63403
+1694597711585	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileEY6sWz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694597711878	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694597711979	Marionette	INFO	Listening on port 63415
+WebDriver BiDi listening on ws://127.0.0.1:63404
+Read port: 63415
+1694597712096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63404/devtools/browser/502d0dc4-5fc6-4ad8-88ea-0e2002f95dd8
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 6359 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694597721936	Marionette	INFO	Stopped listening on port 63415
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694597817337	geckodriver	INFO	Listening on 127.0.0.1:63926
+1694597817854	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileTbjWdP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694597818141	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694597818341	Marionette	INFO	Listening on port 63939
+WebDriver BiDi listening on ws://127.0.0.1:63927
+Read port: 63939
+1694597818445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63927/devtools/browser/3f17f4c2-37ba-4471-9079-e32ec22c689b
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 1763 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694597828040	Marionette	INFO	Stopped listening on port 63939
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694598644351	geckodriver	INFO	Listening on 127.0.0.1:50940
+1694598644871	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile4Orh40"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694598645168	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694598645270	Marionette	INFO	Listening on port 50952
+Read port: 50952
+WebDriver BiDi listening on ws://127.0.0.1:50941
+1694598645384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50941/devtools/browser/ac0cfb35-a17e-4863-844b-659f4186bed5
+JavaScript error: https://1f3aedae249d8765d8a2ff377a851e12.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694598648297&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=0h7mdykkhhxu&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 1048 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694598656090	Marionette	INFO	Stopped listening on port 50952
+JavaScript warning: https://dsp-media.eskimi.com/assets/js/ibv/video.min.js, line 18: Script terminated by timeout at:
+e@https://dsp-media.eskimi.com/assets/js/ibv/video.min.js:18:18647
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694598677136	geckodriver	INFO	Listening on 127.0.0.1:51194
+1694598677648	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilen15zBS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694598677930	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694598678130	Marionette	INFO	Listening on port 51206
+WebDriver BiDi listening on ws://127.0.0.1:51195
+Read port: 51206
+1694598678233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51195/devtools/browser/36cf22b8-9278-412e-a123-1c0f9d272ada
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript error: https://a8d19a174492d24470f95a2675d88396.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694598681363&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=awnmub5n71s2&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5410 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694598689147	Marionette	INFO	Stopped listening on port 51206
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript warning: https://dsp-media.eskimi.com/assets/js/ibv/video.min.js, line 18: Script terminated by timeout at:
+e@https://dsp-media.eskimi.com/assets/js/ibv/video.min.js:18:18647
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694598770799	geckodriver	INFO	Listening on 127.0.0.1:51693
+1694598771312	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileYvehoK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694598771622	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694598771821	Marionette	INFO	Listening on port 51705
+WebDriver BiDi listening on ws://127.0.0.1:51694
+Read port: 51705
+1694598771923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51694/devtools/browser/538d7d18-3a81-4e5a-9b99-c6a0071956fc
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 6088 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694598783531	Marionette	INFO	Stopped listening on port 51705
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694599033968	geckodriver	INFO	Listening on 127.0.0.1:52860
+1694599034481	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileEZIlCP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694599034779	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694599034977	Marionette	INFO	Listening on port 52872
+WebDriver BiDi listening on ws://127.0.0.1:52861
+Read port: 52872
+1694599035082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52861/devtools/browser/dd92d2af-d5a9-48c5-a344-390c3c58714f
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 7743 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+1694599043936	Marionette	INFO	Stopped listening on port 52872
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694599543350	geckodriver	INFO	Listening on 127.0.0.1:54993
+1694599543354	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileuXnncm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694599543618	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694599543716	Marionette	INFO	Listening on port 54999
+Read port: 54999
+WebDriver BiDi listening on ws://127.0.0.1:54994
+1694599543831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:54994/devtools/browser/9f378c53-a659-4aab-b2cf-6694469bbc89
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 2656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694599553397	Marionette	INFO	Stopped listening on port 54999
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694599607143	geckodriver	INFO	Listening on 127.0.0.1:55345
+1694599607657	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileVNTfaV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694599607950	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694599608048	Marionette	INFO	Listening on port 55357
+Read port: 55357
+WebDriver BiDi listening on ws://127.0.0.1:55346
+1694599608104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55346/devtools/browser/c688e249-d00d-41bd-aff5-20e4450d8499
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 598 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694599617557	Marionette	INFO	Stopped listening on port 55357
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694599990132	geckodriver	INFO	Listening on 127.0.0.1:56981
+1694599990649	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile0gPoxn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694599990936	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694599991134	Marionette	INFO	Listening on port 56993
+WebDriver BiDi listening on ws://127.0.0.1:56982
+Read port: 56993
+1694599991238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56982/devtools/browser/3e00067d-c989-44d7-b752-6af96f08d24e
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 7079 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694600000848	Marionette	INFO	Stopped listening on port 56993
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694600002500	geckodriver	INFO	Listening on 127.0.0.1:57127
+1694600003019	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile9k16Zx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694600003320	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694600003515	Marionette	INFO	Listening on port 57139
+WebDriver BiDi listening on ws://127.0.0.1:57128
+Read port: 57139
+1694600003618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57128/devtools/browser/cacb706a-5991-407b-a564-078f3d84b4ab
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 7704 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694600013089	Marionette	INFO	Stopped listening on port 57139
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694600076000	geckodriver	INFO	Listening on 127.0.0.1:57411
+1694600076518	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileiN63z3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694600076817	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694600076910	Marionette	INFO	Listening on port 57419
+Read port: 57419
+WebDriver BiDi listening on ws://127.0.0.1:57412
+1694600076967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57412/devtools/browser/0651f736-b390-44d2-affc-7cd531cb1625
+JavaScript error: https://11552b518ec82104a113442798dc9989.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694600079782&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=rm2fr8gb7tdk&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript error: https://dsp-media.eskimi.com/upload/rich-media-templates/pixel_pages_templates/300x250/code.js, line 53: TypeError: o.adArea is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5919 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694600086658	Marionette	INFO	Stopped listening on port 57419
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694600196186	geckodriver	INFO	Listening on 127.0.0.1:57539
+1694600196704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilebJF2VK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694600197003	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694600197204	Marionette	INFO	Listening on port 57547
+WebDriver BiDi listening on ws://127.0.0.1:57540
+Read port: 57547
+1694600197312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57540/devtools/browser/5165e5f6-0d23-4c47-ae6d-b60c39f90288
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 2775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694600205809	Marionette	INFO	Stopped listening on port 57547
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694600255685	geckodriver	INFO	Listening on 127.0.0.1:57640
+1694600256203	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileeKnRjF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694600256503	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694600256598	Marionette	INFO	Listening on port 57648
+Read port: 57648
+WebDriver BiDi listening on ws://127.0.0.1:57641
+1694600256655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57641/devtools/browser/4908ff2c-303a-4be7-884f-7cfe11e3b98a
+JavaScript error: https://6c4f3f7a870ffaf54070a042f239137e.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694600259677&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=d2b21qaj1lzi&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dsp-media.eskimi.com/upload/rich-media-templates/pixel_pages_templates/300x250/code.js, line 53: TypeError: o.adArea is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 58 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694600266427	Marionette	INFO	Stopped listening on port 57648
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694600285455	geckodriver	INFO	Listening on 127.0.0.1:57769
+1694600285972	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileMEfZNk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694600286266	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694600286465	Marionette	INFO	Listening on port 57777
+WebDriver BiDi listening on ws://127.0.0.1:57770
+Read port: 57777
+1694600286568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57770/devtools/browser/f3635fb1-e284-4a20-a8e1-664f0bb35233
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694600288737&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=n0jdmi16w2o2&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://e6d715b509ea68aeb4216ef30dbb50dd.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://e6d715b509ea68aeb4216ef30dbb50dd.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1694600289301&ver1=2.2.3&qid=13634313f513734313f543931313&rnd=x37iaxlfxyuz&cid=1194 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 2061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694600296681	Marionette	INFO	Stopped listening on port 57777
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694600483705	geckodriver	INFO	Listening on 127.0.0.1:57915
+1694600484221	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile0xfNlt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694600484514	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694600484715	Marionette	INFO	Listening on port 57923
+WebDriver BiDi listening on ws://127.0.0.1:57916
+Read port: 57923
+1694600484820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57916/devtools/browser/7a394c8f-b872-425d-8852-5257e56fed85
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 413: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694600495051	Marionette	INFO	Stopped listening on port 57923
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30565
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694602957338	geckodriver	INFO	Listening on 127.0.0.1:64271
+1694602957347	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileuUQz5b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694602957647	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694602957749	Marionette	INFO	Listening on port 64282
+Read port: 64282
+WebDriver BiDi listening on ws://127.0.0.1:64272
+1694602957803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64272/devtools/browser/6eecf786-c04f-4120-9ee5-24bde74857d3
+1694602960271	Marionette	INFO	Stopped listening on port 64282
+1694603065183	geckodriver	INFO	Listening on 127.0.0.1:64746
+1694603065187	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile43TOK3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603065454	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603065549	Marionette	INFO	Listening on port 64752
+WebDriver BiDi listening on ws://127.0.0.1:64747
+Read port: 64752
+1694603065688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64747/devtools/browser/6fe4ba00-ed04-4f02-972c-a2d4ca18e24c
+1694603068217	Marionette	INFO	Stopped listening on port 64752
+1694603127944	geckodriver	INFO	Listening on 127.0.0.1:65032
+1694603127949	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile0VEXFE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603128227	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603128325	Marionette	INFO	Listening on port 65042
+WebDriver BiDi listening on ws://127.0.0.1:65033
+Read port: 65042
+1694603128491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65033/devtools/browser/76ab27a8-ce9c-448e-8c0c-a6bf90919092
+1694603135929	Marionette	INFO	Stopped listening on port 65042
+1694603160232	geckodriver	INFO	Listening on 127.0.0.1:65204
+1694603160236	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilespiiqa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603160492	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603160690	Marionette	INFO	Listening on port 65214
+WebDriver BiDi listening on ws://127.0.0.1:65205
+Read port: 65214
+1694603160796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65205/devtools/browser/f131bfac-28e5-4b82-8283-0e47390543b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1694603168157	Marionette	INFO	Stopped listening on port 65214
+1694603205381	geckodriver	INFO	Listening on 127.0.0.1:65428
+1694603205385	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilejIqy4o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603205644	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603205743	Marionette	INFO	Listening on port 65438
+WebDriver BiDi listening on ws://127.0.0.1:65429
+Read port: 65438
+1694603205911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65429/devtools/browser/c9be2865-4195-415a-820b-1d1b6b0a188c
+1694603213373	Marionette	INFO	Stopped listening on port 65438
+1694603261291	geckodriver	INFO	Listening on 127.0.0.1:49314
+1694603261295	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile72bTlG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603261572	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603261672	Marionette	INFO	Listening on port 49320
+WebDriver BiDi listening on ws://127.0.0.1:49315
+Read port: 49320
+1694603261794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49315/devtools/browser/b53e71ce-7890-4814-9cd1-2ba7335cfcdf
+1694603269167	Marionette	INFO	Stopped listening on port 49320
+1694603337419	geckodriver	INFO	Listening on 127.0.0.1:49659
+1694603337423	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileW8RBCd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603337692	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603337889	Marionette	INFO	Listening on port 49669
+WebDriver BiDi listening on ws://127.0.0.1:49660
+Read port: 49669
+1694603338001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49660/devtools/browser/98617ee5-2872-4d02-a66d-521d49658135
+1694603345342	Marionette	INFO	Stopped listening on port 49669
+1694603356105	geckodriver	INFO	Listening on 127.0.0.1:49779
+1694603356109	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilesTBso4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603356358	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603356557	Marionette	INFO	Listening on port 49789
+WebDriver BiDi listening on ws://127.0.0.1:49780
+Read port: 49789
+1694603356669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49780/devtools/browser/b2e85968-f763-47b8-b506-f4dbdd552b79
+1694603358971	Marionette	INFO	Stopped listening on port 49789
+1694603403085	geckodriver	INFO	Listening on 127.0.0.1:50005
+1694603403089	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile03o3HJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603403359	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603403564	Marionette	INFO	Listening on port 50011
+WebDriver BiDi listening on ws://127.0.0.1:50006
+Read port: 50011
+1694603403674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50006/devtools/browser/adc766be-3e0b-46a7-8b28-dc418e4df017
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1694603406051	Marionette	INFO	Stopped listening on port 50011
+1694603450099	geckodriver	INFO	Listening on 127.0.0.1:50227
+1694603450103	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilekuTVnI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694603450357	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694603450550	Marionette	INFO	Listening on port 50233
+WebDriver BiDi listening on ws://127.0.0.1:50228
+Read port: 50233
+1694603450658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50228/devtools/browser/76416896-9262-4957-983d-42a2c90111d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1694603453123	Marionette	INFO	Stopped listening on port 50233
+1694604275293	geckodriver	INFO	Listening on 127.0.0.1:53563
+1694604275298	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofileNhNjBA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694604275577	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694604275783	Marionette	INFO	Listening on port 53573
+WebDriver BiDi listening on ws://127.0.0.1:53564
+Read port: 53573
+1694604275891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53564/devtools/browser/88b0a0d6-1bc2-41bc-8004-e19dabced06e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1694604278661	Marionette	INFO	Stopped listening on port 53573
+1694608066782	Marionette	INFO	Stopped listening on port 60175
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1694631580955	geckodriver	INFO	Listening on 127.0.0.1:49349
+1694631581422	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofilepBuxa1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694631581732	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694631581847	Marionette	INFO	Listening on port 49358
+WebDriver BiDi listening on ws://127.0.0.1:49350
+Read port: 49358
+1694631582023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49350/devtools/browser/0e74d24f-b248-41da-a352-b652b1b2b5da
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1694631585446	Marionette	INFO	Stopped listening on port 49358
+1694631615738	geckodriver	INFO	Listening on 127.0.0.1:49390
+1694631616251	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/53/r7n7hw2n7ll513wvy8y2nhxr0000gn/T/rust_mozprofile0UjTYY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694631616533	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694631616620	Marionette	INFO	Listening on port 49398
+WebDriver BiDi listening on ws://127.0.0.1:49391
+Read port: 49398
+1694631616733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49391/devtools/browser/b9b0cbb6-5e23-4a3f-8e36-30b5e84ca5d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1694631619627	Marionette	INFO	Stopped listening on port 49398
